@@ -1,6 +1,6 @@
 # DNN's Sharpest Directions
 
-Repository for [On the Relation Between the Sharpest Directions of DNN Loss and the SGD Step Length](https://arxiv.org/abs/1807.05031).
+Repository for [On the Relation Between the Sharpest Directions of DNN Loss and the SGD Step Length](https://arxiv.org/abs/1807.05031), ICLR 2019.
 
 Disclaimer: this repository contains code for running all  experiments in the paper. Code in `experiments` folder is
 not release quality, but is provided for maximum reproducibility.
